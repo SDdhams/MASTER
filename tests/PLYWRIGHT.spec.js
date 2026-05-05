@@ -2,7 +2,7 @@
 
 import { test,expect } from '@playwright/test'
 
-test('POST request', async (request) => {
+test('POST request', async ({ request }) => {
 
 const response = await request.post('https://reqres.in/api/users',
     {
@@ -13,7 +13,7 @@ const response = await request.post('https://reqres.in/api/users',
         }
     }
 )
-response.toBe(200);
+response.toBe(201);
  
 const variable = response.json();
 
