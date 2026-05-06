@@ -1,0 +1,4 @@
+ Facebook opened
+ Username filled
+ Password filled
+ Screenshot saved as facebook_login.png

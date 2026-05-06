@@ -1,0 +1,18 @@
+[
+  'Rs. 584', 'Rs. 399', 'Rs. 399', 'Rs. 545',
+  'Rs. 539', 'Rs. 349', 'Rs. 199', 'Rs. 450',
+  'Rs. 701', 'Rs. 439', 'Rs. 360', 'Rs. 699',
+  'Rs. 623', 'Rs. 199', 'Rs. 199', 'Rs. 599',
+  'Rs. 405', 'Rs. 609', 'Rs. 249', 'Rs. 459',
+  'Rs. 349', 'Rs. 349', 'Rs. 270', 'Rs. 434',
+  'Rs. 615', 'Rs. 405', 'Rs. 506', 'Rs. 659',
+  'Rs. 360', 'Rs. 349', 'Rs. 729', 'Rs. 629',
+  'Rs. 337', 'Rs. 584', 'Rs. 693', 'Rs. 299',
+  'Rs. 249', 'Rs. 405', 'Rs. 623', 'Rs. 206',
+  'Rs. 679', 'Rs. 415', 'Rs. 299', 'Rs. 670',
+  'Rs. 399', 'Rs. 499', 'Rs. 599', 'Rs. 175',
+  'Rs. 206', 'Rs. 439'
+]
+productdiscountprice count 50
+Minimum Price : 175
+Minimum Price Product Name : YK X Minute Mirth

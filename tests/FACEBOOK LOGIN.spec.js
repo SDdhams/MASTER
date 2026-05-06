@@ -35,18 +35,17 @@ test('login facebook', async ({page})=>
     console.log(' Facebook opened');
 
     // Fill Username/Email
-    // await page.fill('.x1i10hfl', 'dhams');
-    await page.fill('#_R_1h6kqsqppb6amH1_', 'dhams');
+    await page.fill('//input[@name="email"]', 'dhams');
     
     console.log(' Username filled');
 
     // Fill Password
-    await page.fill('#_R_1hmkqsqppb6amH1_', '12345');
+    await page.fill('//input[@name="pass"]', '12345');
     console.log(' Password filled');
     
     await page.getByRole ('button',{name :'log In'}).click();
     
-    // wair for 3  seconds
+   //  wait for 8  seconds
     await page.waitForTimeout(8000);
 
     // Take screenshot before login
